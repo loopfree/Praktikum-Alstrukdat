@@ -1,0 +1,2 @@
+Soal
+list_linked.c -> 100%
