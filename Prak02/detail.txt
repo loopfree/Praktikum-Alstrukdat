@@ -1,0 +1,4 @@
+Soal
+1. garis.c	-> 100%
+2. vector.c	-> 89%
+3. mtime.c	-> 100%
