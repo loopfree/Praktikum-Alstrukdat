@@ -16,7 +16,7 @@
 | Pra Prak 10   | 100.0         | Prak 10   | 100.0         |
 | Pra Prak 11   | 100.0         | Prak 11   | 100.0         |
 | Pra Prak 12   | 100.0         | Prak 12   | 90.00         |
-| Pra Prak 13   | 100.0         | Prak 10   | 95.00         |
+| Pra Prak 13   | 100.0         | Prak 13   | 95.00         |
 
 ## Note
 Baca `detail.txt` tiap folder untuk mengetahui detail nilai akhir
